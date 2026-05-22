@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-23T00:00:00Z",
+  "links": [
+    { "id": "ccl",       "name": "Couple to Couple League",        "url": "https://ccli.org" },
+    { "id": "symptopro", "name": "SymptoPro",                      "url": "https://symptopro.org" },
+    { "id": "billings",  "name": "Billings Ovulation Method",      "url": "https://boma-usa.org" },
+    { "id": "creighton", "name": "Creighton Model FertilityCare",  "url": "https://creightonmodel.com" },
+    { "id": "marquette", "name": "Marquette Method",               "url": "https://nfp.marquette.edu" },
+    { "id": "spvi",      "name": "Saint Paul VI Institute",        "url": "https://popepaulvi.com" },
+    { "id": "springs",   "name": "Springs in the Desert",          "url": "https://springsinthedesert.com" },
+    { "id": "usccb",     "name": "USCCB NFP",                      "url": "https://usccb.org/topics/natural-family-planning" }
+  ]
+}
