@@ -2,7 +2,7 @@
   "version": 1,
   "updatedAt": "2026-05-23T00:00:00Z",
   "links": [
-    { "id": "ccl",       "name": "Couple to Couple League",        "url": "https://example.com" },
+    { "id": "ccl",       "name": "Couple to Couple League",        "url": "https://ccli.org" },
     { "id": "symptopro", "name": "SymptoPro",                      "url": "https://symptopro.org" },
     { "id": "billings",  "name": "Billings Ovulation Method",      "url": "https://boma-usa.org" },
     { "id": "creighton", "name": "Creighton Model FertilityCare",  "url": "https://creightonmodel.com" },
