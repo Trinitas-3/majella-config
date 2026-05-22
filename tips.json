@@ -1,5 +1,853 @@
 {
-  "version": 1,
-  "updatedAt": "2026-05-23T00:00:00Z",
-  "tips": []
+  "tips" : [
+    {
+      "id" : "m01",
+      "category" : "food",
+      "firstSentence" : "Iron-rich foods can support your energy this week.",
+      "body" : "Your body is working hard to replenish what you have lost. Spinach, lentils, beef and pumpkin seeds are all good sources. Pair them with a vitamin C source like citrus, capsicum or strawberries which can help your body absorb more of the iron."
+    },
+    {
+      "id" : "m02",
+      "category" : "wellness",
+      "firstSentence" : "A slower pace this week is not failure.",
+      "body" : "Many women feel quieter and more inward during their period. It is a normal hormonal response and your body is doing real work."
+    },
+    {
+      "id" : "m03",
+      "category" : "exercise",
+      "firstSentence" : "Gentle movement can ease cramps without taxing your body.",
+      "body" : "Energy is typically lower during menstruation which is a normal hormonal response. Walking, light stretching or gentle movement can be supportive this week."
+    },
+    {
+      "id" : "m04",
+      "category" : "food",
+      "firstSentence" : "Anti-inflammatory foods may help with period discomfort.",
+      "body" : "Fatty fish like salmon ginger, turmeric, walnuts and berries are all worth keeping on your plate this week. A warm bowl of oatmeal with berries and walnuts is a gentle supportive start to the day."
+    },
+    {
+      "id" : "m05",
+      "category" : "spiritual",
+      "firstSentence" : "Your fertility is part of the gift of your body.",
+      "body" : "As your cycle begins again it can be a quiet moment to thank God for the body you have been given and to offer the week ahead to him."
+    },
+    {
+      "id" : "m06",
+      "category" : "exercise",
+      "firstSentence" : "Brisk walks can feel restorative when your workout is too much.",
+      "body" : "If your usual routine feels heavy this week it is okay to scale back. Gentle stretching is another option. Pay attention to what your body is telling you and respond honestly."
+    },
+    {
+      "id" : "m07",
+      "category" : "food",
+      "firstSentence" : "Warm herbal teas can soothe cramps and bloating.",
+      "body" : "Hydration matters more than people realise during your period. Aim to drink water steadily through the day and consider options like peppermint, chamomile or ginger tea."
+    },
+    {
+      "id" : "m08",
+      "category" : "wellness",
+      "firstSentence" : "An extra hour of sleep is your body asking for what it needs.",
+      "body" : "Sleep can feel different during your period. Some women find they are more tired some sleep more lightly. Honour that pattern when you can."
+    },
+    {
+      "id" : "m09",
+      "category" : "exercise",
+      "firstSentence" : "A slow 20-minute walk often helps where stillness does not.",
+      "body" : "Movement can ease menstrual cramps for many women even when it feels counterintuitive. Gentle activity is usually more supportive than sitting still."
+    },
+    {
+      "id" : "m10",
+      "category" : "spiritual",
+      "firstSentence" : "The start of a cycle can feel like a small new beginning.",
+      "body" : "If there is a prayer you have been wanting to make for your family, for your year ahead or for a worry you have been carrying today is a fitting day to bring it to God."
+    },
+    {
+      "id" : "m11",
+      "category" : "food",
+      "firstSentence" : "Warm cooked foods can feel more comforting than cold ones this week.",
+      "body" : "Soups, stews, porridge and roasted vegetables are gentle on the body and easy to digest. Many women find warm meals more settling than salads or cold food during their period."
+    },
+    {
+      "id" : "m12",
+      "category" : "food",
+      "firstSentence" : "Vitamin C does quiet work for your body during menstruation.",
+      "body" : "Citrus, berries, capsicum and broccoli all carry it, and it supports iron absorption from the food you eat. A little alongside an iron-rich meal goes a long way."
+    },
+    {
+      "id" : "m13",
+      "category" : "food",
+      "firstSentence" : "Small regular meals can steady your energy on heavier days.",
+      "body" : "Long gaps between meals can leave you more tired and low than the period itself would. Eating something every few hours keeps your energy from dipping too far."
+    },
+    {
+      "id" : "m14",
+      "category" : "exercise",
+      "firstSentence" : "Rest is a legitimate choice on the heaviest days.",
+      "body" : "If your body is asking you to slow right down, that is not laziness. Some women feel better for gentle movement and some feel better for rest, and both are valid ways to listen to your body."
+    },
+    {
+      "id" : "m15",
+      "category" : "exercise",
+      "firstSentence" : "Gentle stretching can ease the lower back ache that often comes with a period.",
+      "body" : "Slow stretches for the hips and lower back can release some of the tension that builds there this week. A few minutes is enough to feel a difference."
+    },
+    {
+      "id" : "m16",
+      "category" : "exercise",
+      "firstSentence" : "A short walk in fresh air can lift a low mood on a period day.",
+      "body" : "Even ten minutes outside can shift how you feel when energy is low. The daylight and gentle movement together are more restoring than they sound."
+    },
+    {
+      "id" : "m17",
+      "category" : "wellness",
+      "firstSentence" : "Keeping a hot water bottle nearby is a small act of care.",
+      "body" : "Warmth on the lower abdomen or back eases cramping for many women. Simple comforts like this are worth reaching for rather than pushing through without them."
+    },
+    {
+      "id" : "m18",
+      "category" : "wellness",
+      "firstSentence" : "This is a natural week to keep your commitments light where you can.",
+      "body" : "If your energy is lower, protecting a little space in your week is wise rather than indulgent. Not every week has to be lived at the same pace."
+    },
+    {
+      "id" : "m19",
+      "category" : "spiritual",
+      "firstSentence" : "The quiet of this week can be turned toward prayer.",
+      "body" : "The more inward feeling many women notice during their period can be a gift. It is a natural time to sit a little longer in stillness with God."
+    },
+    {
+      "id" : "m20",
+      "category" : "spiritual",
+      "firstSentence" : "Offering the discomfort of this week to God can give it meaning.",
+      "body" : "If you are tired or sore, that small suffering need not be wasted. Many women find that offering it up, even briefly, changes how it is carried."
+    },
+    {
+      "id" : "f01",
+      "category" : "wellness",
+      "firstSentence" : "Your energy and mood often lift in the week or two after your period.",
+      "body" : "Estrogen is rising again and many women notice their focus sharpens and their outlook brightens during this phase."
+    },
+    {
+      "id" : "f02",
+      "category" : "food",
+      "firstSentence" : "Lean proteins and whole grains support your body\\u{2019}s rebuilding work.",
+      "body" : "Chicken, eggs, fish, oats, quinoa and plenty of colourful vegetables can all help. Variety matters more than perfection."
+    },
+    {
+      "id" : "f03",
+      "category" : "exercise",
+      "firstSentence" : "This can be a natural time to lean into more vigorous movement.",
+      "body" : "Estrogen is rising and many women notice their energy returning over the next week or so. Pay attention to what feels right rather than following a fixed plan."
+    },
+    {
+      "id" : "f04",
+      "category" : "exercise",
+      "firstSentence" : "This is often the week to try a new class or push your run a little longer.",
+      "body" : "The follicular phase is when many women report feeling strongest. Build gradually rather than going all in on one day."
+    },
+    {
+      "firstSentence" : "Complex carbohydrates give your body sustained fuel as you ramp up activity.",
+      "id" : "f05",
+      "category" : "food",
+      "body" : "Oats, brown rice, sweet potato and beans are all good options. Pairing them with protein and healthy fats keeps your energy steady through the day."
+    },
+    {
+      "firstSentence" : "A short prayer of gratitude shapes the day.",
+      "id" : "f06",
+      "category" : "spiritual",
+      "body" : "This part of your cycle often feels expansive. There is more energy, more clarity, more capacity. It is a fitting time to thank God for the good of your body and for the work he is doing in you."
+    },
+    {
+      "firstSentence" : "This can be the week to call that friend you have been meaning to.",
+      "id" : "f07",
+      "category" : "wellness",
+      "body" : "Many women find their social energy picks up during the follicular phase. If there is an event you have been putting off or a connection you want to make this is a natural moment to lean into it."
+    },
+    {
+      "firstSentence" : "The follicular phase is a kind time to start a new exercise routine.",
+      "id" : "f08",
+      "category" : "exercise",
+      "body" : "Energy is typically higher, motivation often comes more easily and your body is generally more responsive to building new habits this week."
+    },
+    {
+      "firstSentence" : "Healthy fats support the hormone production happening in your body right now.",
+      "id" : "f09",
+      "category" : "food",
+      "body" : "Avocado, olive oil, nuts, seeds and fatty fish like salmon are all good options. A handful of almonds or a slice of avocado on toast is an easy way to add them in."
+    },
+    {
+      "firstSentence" : "A clearer headspace is a good time to bring an intention to prayer.",
+      "id" : "f10",
+      "category" : "spiritual",
+      "body" : "If you have been carrying a hope you have not quite given language to whatever you are asking God for offering it now is worthwhile."
+    },
+    {
+      "firstSentence" : "Fresh, light meals often suit the rising energy of this phase.",
+      "id" : "f11",
+      "category" : "food",
+      "body" : "As estrogen rises, many women find they are drawn to lighter food. Salads, fruit, grilled fish and crisp vegetables all fit the brighter mood of these days."
+    },
+    {
+      "firstSentence" : "Fermented foods support gut health as your body rebuilds.",
+      "id" : "f12",
+      "category" : "food",
+      "body" : "Yoghurt, kefir and sauerkraut bring beneficial bacteria. The follicular phase is a good time to keep them in your meals as your body is in a building, renewing mode."
+    },
+    {
+      "firstSentence" : "Protein at each meal supports the energy you are building this week.",
+      "id" : "f13",
+      "category" : "food",
+      "body" : "Eggs, fish, chicken, beans and lentils all help. Steady protein through the day matches the steady energy the follicular phase tends to bring."
+    },
+    {
+      "firstSentence" : "This is a good week to set a small fitness goal.",
+      "id" : "f14",
+      "category" : "exercise",
+      "body" : "With energy and motivation often rising, the follicular phase suits gentle ambition. Pick something achievable and let this phase carry you into it."
+    },
+    {
+      "firstSentence" : "Trying a new kind of movement can feel easier this week.",
+      "id" : "f15",
+      "category" : "exercise",
+      "body" : "Many women find they are more willing to step outside routine during the follicular phase. If something has caught your eye, this is a natural time to try it."
+    },
+    {
+      "firstSentence" : "Building strength gradually serves you well in this phase.",
+      "id" : "f16",
+      "category" : "exercise",
+      "body" : "If you are drawn to more demanding movement, increase it step by step rather than all at once. The follicular phase rewards consistency more than intensity."
+    },
+    {
+      "firstSentence" : "Rising energy is a good thing to use thoughtfully.",
+      "id" : "f17",
+      "category" : "wellness",
+      "body" : "The lift many women feel in this phase can be poured into the things that matter most rather than spent everywhere at once. A little intention helps."
+    },
+    {
+      "firstSentence" : "This can be a clear-headed week for planning.",
+      "id" : "f18",
+      "category" : "wellness",
+      "body" : "Many women notice their thinking feels sharper as estrogen rises. If there is something you have been meaning to map out, this is a natural week for it."
+    },
+    {
+      "firstSentence" : "A brighter week is a fitting time for thanksgiving.",
+      "id" : "f19",
+      "category" : "spiritual",
+      "body" : "When energy and mood lift, it is easy to forget where the good comes from. A short prayer of thanks keeps your heart turned toward God."
+    },
+    {
+      "firstSentence" : "Renewed energy can be offered as well as enjoyed.",
+      "id" : "f20",
+      "category" : "spiritual",
+      "body" : "The follicular phase often brings a sense of fresh capacity. Offering that energy to God, asking that it be used well, is a quiet and steadying practice."
+    },
+    {
+      "firstSentence" : "You are approaching your most fertile days.",
+      "id" : "fe01",
+      "category" : "wellness",
+      "body" : "Many women report higher energy, sharper focus and a more social mood during this phase. If you feel that lift it is a good moment to lean into the things you would usually put off."
+    },
+    {
+      "firstSentence" : "Antioxidant-rich foods support reproductive health throughout the cycle.",
+      "id" : "fe02",
+      "category" : "food",
+      "body" : "Berries, dark leafy greens, brightly coloured vegetables and small amounts of dark chocolate are all good sources. A simple meal of grilled fish with a generous salad and roasted sweet potato is nourishing on a fertile day."
+    },
+    {
+      "firstSentence" : "Many women feel their strongest and most coordinated during the fertile window.",
+      "id" : "fe03",
+      "category" : "exercise",
+      "body" : "Strength training, fast-paced cardio or any movement that requires energy can feel natural this week. Match your activity to what your body is offering."
+    },
+    {
+      "firstSentence" : "Today is a fitting day to bring an intention before God.",
+      "id" : "fe04",
+      "category" : "spiritual",
+      "body" : "This is the most fertile point of your cycle. If you are praying for your family, for your future children, for a question you have been carrying take a moment to offer it."
+    },
+    {
+      "firstSentence" : "Zinc and B vitamins support reproductive health during the fertile window.",
+      "id" : "fe05",
+      "category" : "food",
+      "body" : "Pumpkin seeds, oysters, eggs, leafy greens and whole grains all contribute. A varied diet usually covers it well."
+    },
+    {
+      "firstSentence" : "This is often a week where new movement feels possible.",
+      "id" : "fe06",
+      "category" : "exercise",
+      "body" : "If there is a class, a hike or an activity you have been curious about it can be a good time to try it. Your body is typically more resilient now but recovery still matters. Do not skip it."
+    },
+    {
+      "firstSentence" : "Confidence often runs higher during the fertile window.",
+      "id" : "fe07",
+      "category" : "wellness",
+      "body" : "Many women report feeling more themselves, more articulate, more present. If there is a conversation or a decision you have been postponing this can be a good week to face it."
+    },
+    {
+      "firstSentence" : "Your fluid needs may be slightly elevated this week.",
+      "id" : "fe08",
+      "category" : "food",
+      "body" : "Higher energy and warmer body temperatures mean staying well hydrated matters. Water is the simplest option but you can also lean on water-rich foods like cucumber, watermelon and citrus fruits."
+    },
+    {
+      "firstSentence" : "You might notice heavier lifts and faster runs feel easier this week.",
+      "id" : "fe09",
+      "category" : "exercise",
+      "body" : "If you train regularly that is a real physiological shift for many women. Enjoy it without expecting it every cycle."
+    },
+    {
+      "firstSentence" : "The fertile window can be a meaningful time to bring your hopes to prayer.",
+      "id" : "fe10",
+      "category" : "spiritual",
+      "body" : "Whatever you are asking God for if you are trying to conceive offer that hope. If you are discerning a different question offer that one. Trust him with what you are asking for."
+    },
+    {
+      "firstSentence" : "Leafy greens carry folate, which supports reproductive health.",
+      "id" : "fe11",
+      "category" : "food",
+      "body" : "Spinach, kale and other dark greens are rich in it. Whatever your hopes for this season of life, folate is worth keeping in your meals through the fertile window."
+    },
+    {
+      "firstSentence" : "Colourful whole foods serve your body well during these days.",
+      "id" : "fe12",
+      "category" : "food",
+      "body" : "A varied plate of vegetables, fruit, whole grains and good protein covers most of what your body needs. Variety matters more than any single food."
+    },
+    {
+      "firstSentence" : "Staying well hydrated matters a little more this week.",
+      "id" : "fe13",
+      "category" : "food",
+      "body" : "Energy and body temperature often run higher around ovulation. Water through the day, helped along by water-rich foods like cucumber and melon, keeps you comfortable."
+    },
+    {
+      "firstSentence" : "Many women feel capable and strong during the fertile window.",
+      "id" : "fe14",
+      "category" : "exercise",
+      "body" : "If you feel that lift, it is a good week for movement you enjoy and find energising. Match the activity to the energy your body is offering."
+    },
+    {
+      "firstSentence" : "Recovery still matters even when you feel strong.",
+      "id" : "fe15",
+      "category" : "exercise",
+      "body" : "The fertile window often brings a peak in energy, but rest between harder sessions is still part of looking after your body. Do not skip it."
+    },
+    {
+      "firstSentence" : "Group activity can feel especially good this week.",
+      "id" : "fe16",
+      "category" : "exercise",
+      "body" : "With social energy often higher around ovulation, a class, a team sport or a walk with friends can suit this phase well. Movement and connection together."
+    },
+    {
+      "firstSentence" : "A confident week is a good one for honest conversations.",
+      "id" : "fe17",
+      "category" : "wellness",
+      "body" : "Many women feel more articulate and self-assured around ovulation. If there is something you have wanted to say or address, this can be a supportive week for it."
+    },
+    {
+      "firstSentence" : "Notice the energy of this phase without demanding it return.",
+      "id" : "fe18",
+      "category" : "wellness",
+      "body" : "The lift of the fertile window is real for many women, but it varies cycle to cycle. Enjoy it when it comes without treating its absence as a failure."
+    },
+    {
+      "firstSentence" : "This is a meaningful point in the cycle to pray for your hopes.",
+      "id" : "fe19",
+      "category" : "spiritual",
+      "body" : "Whatever you carry, for your family, for children, for a discernment you are sitting with, the fertile window is a fitting time to bring it honestly to God."
+    },
+    {
+      "firstSentence" : "Fruitfulness takes many forms, and all can be offered in prayer.",
+      "id" : "fe20",
+      "category" : "spiritual",
+      "body" : "Whether or not this season is one of trying to conceive, the desire to be fruitful in your life and work can be placed before God this week."
+    },
+    {
+      "firstSentence" : "Cravings for richer foods are common in the luteal phase.",
+      "body" : "There is evidence your body may genuinely use slightly more energy now. Reaching for nourishing options like dark chocolate, oats with nut butter, or roasted sweet potato can help satisfy cravings without leaving you hungry an hour later.",
+      "category" : "food",
+      "id" : "l01"
+    },
+    {
+      "firstSentence" : "Mood shifts in the luteal phase are common and real.",
+      "body" : "If you are feeling more sensitive, more tired or more easily irritated you are not imagining it. Understanding what your body is doing makes the week easier to navigate.",
+      "category" : "wellness",
+      "id" : "l02"
+    },
+    {
+      "firstSentence" : "Lower-intensity movement often feels better than high-intensity work this week.",
+      "body" : "Energy typically eases in the luteal phase. Walking, stretching, swimming or longer steady-state activity can be more supportive. Save the hard sessions for next cycle’s follicular phase.",
+      "category" : "exercise",
+      "id" : "l03"
+    },
+    {
+      "firstSentence" : "Magnesium-rich foods can ease premenstrual symptoms.",
+      "body" : "Whole grains, dark leafy greens, nuts, seeds, beans and dark chocolate are all sources. A small piece of good-quality dark chocolate after dinner can be both nourishing and satisfying.",
+      "category" : "food",
+      "id" : "l04"
+    },
+    {
+      "firstSentence" : "A short prayer of thanksgiving fits this week well.",
+      "body" : "The luteal phase often invites more reflection. As your cycle slows down consider what you have to be thankful for from this month. Prayers answered. Moments of grace.",
+      "category" : "spiritual",
+      "id" : "l05"
+    },
+    {
+      "firstSentence" : "Lighter sessions can serve you better than pushing hard this week.",
+      "body" : "If you typically train intensely many women report fewer aches and a better mood when they let the luteal phase be its own thing rather than fighting it.",
+      "category" : "exercise",
+      "id" : "l06"
+    },
+    {
+      "firstSentence" : "Salt cravings before your period are often about fluid shifts.",
+      "body" : "They are common and not bad in themselves. Pairing salty foods with potassium-rich options like bananas, avocados or potatoes can help your body balance out.",
+      "category" : "food",
+      "id" : "l07"
+    },
+    {
+      "firstSentence" : "Even 30 minutes of extra sleep can shift how you feel.",
+      "body" : "Sleep can be lighter in the luteal phase. Keeping your room cool, going to bed slightly earlier, and avoiding screens for the hour before sleep can all help.",
+      "category" : "wellness",
+      "id" : "l08"
+    },
+    {
+      "firstSentence" : "Slower restorative movement can be particularly supportive this week.",
+      "body" : "Gentle stretching and longer walks often ease tension and help with sleep. Many women find these feel better than anything more intense in the luteal phase.",
+      "category" : "exercise",
+      "id" : "l09"
+    },
+    {
+      "firstSentence" : "The slower pace of the luteal phase can be a gift.",
+      "body" : "As your cycle moves toward its end sit with the past few weeks. What were you given. What are you carrying. Bring it all before God. Even the small things.",
+      "category" : "spiritual",
+      "id" : "l10"
+    },
+    {
+      "firstSentence" : "Complex carbohydrates can steady mood in the luteal phase.",
+      "body" : "Oats, wholegrain bread, brown rice and sweet potato release energy slowly. Many women find steady carbohydrates help with the mood dips this phase can bring.",
+      "category" : "food",
+      "id" : "l11"
+    },
+    {
+      "firstSentence" : "Calcium-rich foods may ease premenstrual symptoms.",
+      "body" : "Yoghurt, cheese, milk and fortified alternatives all carry calcium. Some women find keeping it in their meals through the luteal phase takes the edge off.",
+      "category" : "food",
+      "id" : "l12"
+    },
+    {
+      "firstSentence" : "Reaching for nourishing snacks helps with luteal cravings.",
+      "body" : "Cravings are common and not a failing. Choosing options that satisfy and sustain, like fruit with nut butter or yoghurt with oats, serves you better than going hungry.",
+      "category" : "food",
+      "id" : "l13"
+    },
+    {
+      "firstSentence" : "Gentle, steady movement often suits the luteal phase best.",
+      "body" : "Walking, stretching and easy swimming can feel better than intense sessions as energy eases. Let this phase be its own thing rather than fighting it.",
+      "category" : "exercise",
+      "id" : "l14"
+    },
+    {
+      "firstSentence" : "Lower energy this week is a normal hormonal shift.",
+      "body" : "If your usual workout feels heavier than it did, that is expected, not a loss of fitness. Scaling back through the luteal phase is a reasonable response.",
+      "category" : "exercise",
+      "id" : "l15"
+    },
+    {
+      "firstSentence" : "A calm evening walk can ease luteal restlessness.",
+      "body" : "Many women find gentle movement at the end of the day helps with the tension and lighter sleep this phase can bring. It need not be long to help.",
+      "category" : "exercise",
+      "id" : "l16"
+    },
+    {
+      "firstSentence" : "Being patient with your mood this week is wise.",
+      "body" : "If you feel more sensitive or easily worn down, understanding why makes it easier to meet yourself kindly. The luteal phase asks for a gentler hand.",
+      "category" : "wellness",
+      "id" : "l17"
+    },
+    {
+      "firstSentence" : "Protecting your sleep matters more in the luteal phase.",
+      "body" : "Sleep can be lighter this week for many women. A cool room, an earlier night and less screen time before bed all help your rest hold up.",
+      "category" : "wellness",
+      "id" : "l18"
+    },
+    {
+      "firstSentence" : "The luteal phase invites a looking back over the month.",
+      "body" : "As the cycle slows, it is a natural time to consider what the past weeks held. Bring the whole of it, the good and the hard, before God.",
+      "category" : "spiritual",
+      "id" : "l19"
+    },
+    {
+      "firstSentence" : "A quieter week can be met with acceptance rather than resistance.",
+      "body" : "The slower energy of the luteal phase can feel frustrating. Choosing to accept it, rather than push against it, is itself a small act of trust in the rhythm your body was made with.",
+      "category" : "spiritual",
+      "id" : "l20"
+    },
+    {
+      "firstSentence" : "A glass of water before your morning coffee is a small kindness to your body.",
+      "body" : "Many of us reach for caffeine before we have had anything to drink, and mild dehydration can leave you feeling more tired than you need to be. Keep a glass by the kettle as a simple reminder.",
+      "category" : "food",
+      "id" : "g01"
+    },
+    {
+      "firstSentence" : "Iron-rich foods are worth keeping on your plate throughout the month.",
+      "body" : "Leafy greens, lentils, red meat and eggs all support healthy iron levels. Pairing them with a source of vitamin C, like a squeeze of lemon or some capsicum, helps your body absorb the iron more easily.",
+      "category" : "food",
+      "id" : "g02"
+    },
+    {
+      "firstSentence" : "A handful of nuts is one of the easiest snacks to keep within reach.",
+      "body" : "Almonds, walnuts and brazil nuts offer healthy fats, protein and a steady kind of energy that does not spike and crash. Keep a small jar in your bag or on your desk.",
+      "category" : "food",
+      "id" : "g03"
+    },
+    {
+      "firstSentence" : "Cooking a little extra at dinner gives you a gift tomorrow.",
+      "body" : "A double batch of soup, roasted vegetables or a grain salad means a nourishing lunch is already waiting for you. On busy days that small bit of planning protects you from skipping meals.",
+      "category" : "food",
+      "id" : "g04"
+    },
+    {
+      "firstSentence" : "Oily fish twice a week is a quiet investment in your wellbeing.",
+      "body" : "Salmon, sardines and mackerel are rich in omega-3 fats, which support heart and brain health. Tinned fish counts and makes this easy and affordable.",
+      "category" : "food",
+      "id" : "g05"
+    },
+    {
+      "firstSentence" : "Whole grains release their energy slowly, which your body appreciates.",
+      "body" : "Oats, brown rice, barley and wholemeal bread give you steadier energy than refined grains. They also bring fibre, which supports digestion across the whole month.",
+      "category" : "food",
+      "id" : "g06"
+    },
+    {
+      "firstSentence" : "Eating a rainbow of vegetables is simpler than it sounds.",
+      "body" : "Different colours carry different nutrients, so variety on the plate means variety for your body. Aim to add one colour you do not usually reach for this week.",
+      "category" : "food",
+      "id" : "g07"
+    },
+    {
+      "firstSentence" : "A warm breakfast can set a gentle tone for the day.",
+      "body" : "Porridge, eggs or stewed fruit with yoghurt are easy to prepare and easy to digest. Starting the day fed, rather than rushed and empty, is worth the few extra minutes.",
+      "category" : "food",
+      "id" : "g08"
+    },
+    {
+      "firstSentence" : "Magnesium-rich foods can be a comfort to keep in your week.",
+      "body" : "Dark leafy greens, pumpkin seeds, dark chocolate and beans all carry magnesium, which supports muscle function and rest. A square of good dark chocolate is a perfectly reasonable way to include it.",
+      "category" : "food",
+      "id" : "g09"
+    },
+    {
+      "firstSentence" : "Yoghurt and other fermented foods are kind to your gut.",
+      "body" : "Live yoghurt, kefir and sauerkraut bring beneficial bacteria that support digestion. A spoonful with breakfast or alongside a meal is an easy daily habit.",
+      "category" : "food",
+      "id" : "g10"
+    },
+    {
+      "firstSentence" : "Keeping fruit washed and visible makes it the easy choice.",
+      "body" : "A bowl of fruit on the bench, already rinsed, removes the small friction that often sends us to less nourishing snacks. Make the good option the convenient one.",
+      "category" : "food",
+      "id" : "g11"
+    },
+    {
+      "firstSentence" : "Herbal teas can be a calm ritual at the end of the day.",
+      "body" : "Chamomile, peppermint and ginger teas are caffeine free and can feel soothing before bed. The pause itself, sitting quietly with a warm cup, is part of the benefit.",
+      "category" : "food",
+      "id" : "g12"
+    },
+    {
+      "firstSentence" : "Protein at breakfast helps carry you steadily through the morning.",
+      "body" : "Eggs, yoghurt, nut butter or beans give you lasting fullness and fewer mid-morning slumps. A breakfast built only on refined carbohydrates tends to leave you hungry sooner.",
+      "category" : "food",
+      "id" : "g13"
+    },
+    {
+      "firstSentence" : "Slowing down at meals lets your body catch up with your appetite.",
+      "body" : "It takes time for the feeling of fullness to register. Putting your fork down between bites, and eating away from screens, helps you notice when you have had enough.",
+      "category" : "food",
+      "id" : "g14"
+    },
+    {
+      "firstSentence" : "Soups and stews are an easy way to eat well without fuss.",
+      "body" : "They are forgiving to make, simple to store and easy to fill with vegetables, beans and grains. A pot made on the weekend can feed you gently through several busy days.",
+      "category" : "food",
+      "id" : "g15"
+    },
+    {
+      "firstSentence" : "Limiting added sugar is less about restriction and more about steadiness.",
+      "body" : "Frequent sugary snacks can leave energy and mood rising and dipping all day. Choosing whole foods more often gives you a calmer, more even sense of wellbeing.",
+      "category" : "food",
+      "id" : "g16"
+    },
+    {
+      "id" : "g17",
+      "firstSentence" : "A piece of fruit with a little protein is a well-balanced snack.",
+      "body" : "An apple with peanut butter, or berries with yoghurt, pairs natural sweetness with staying power. It satisfies more completely than fruit alone.",
+      "category" : "food"
+    },
+    {
+      "id" : "g18",
+      "firstSentence" : "Eating regularly through the day keeps your energy from running low.",
+      "body" : "Long gaps between meals can leave you tired, irritable and reaching for whatever is quickest. Three meals with a small snack if needed is a reliable rhythm for most days.",
+      "category" : "food"
+    },
+    {
+      "id" : "g19",
+      "firstSentence" : "A short walk outdoors is one of the most reliable gifts you can give yourself.",
+      "body" : "Even ten or fifteen minutes lifts your mood, supports circulation and clears your head. The fresh air and daylight are part of the benefit, so step outside if you can.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g20",
+      "firstSentence" : "Gentle stretching in the morning wakes the body kindly.",
+      "body" : "A few minutes of slow stretching eases overnight stiffness and signals to your body that the day has begun. It asks very little and gives back a surprising amount.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g21",
+      "firstSentence" : "Movement does not need to be intense to be worthwhile.",
+      "body" : "A relaxed walk, some gentle stretching or a little time in the garden all count and all support your health. Consistency matters far more than intensity.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g22",
+      "firstSentence" : "Strength work a couple of times a week supports you for years to come.",
+      "body" : "Carrying shopping, lifting children and simply moving with ease all rest on muscle strength. Bodyweight exercises at home are enough to begin, and they protect your bones too.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g23",
+      "firstSentence" : "Taking the stairs is a small choice that quietly adds up.",
+      "body" : "A few flights here and there through the week is real activity, woven into your day without needing extra time. Look for these small opportunities to move.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g24",
+      "firstSentence" : "Stretching before bed can help your body settle.",
+      "body" : "A few slow, gentle stretches release the tension the day has gathered in your shoulders and back. Paired with calm breathing, it can ease you toward rest.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g25",
+      "firstSentence" : "Listening to your body is itself a form of wisdom.",
+      "body" : "Some days call for a brisk walk and some days call for rest, and both are right in their moment. Movement should support your wellbeing, not become another pressure.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g26",
+      "firstSentence" : "Walking with a friend turns exercise into connection.",
+      "body" : "A regular walk shared with someone you care for looks after your body and your friendship at once. Good conversation makes the time pass easily.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g27",
+      "firstSentence" : "Standing and moving briefly through the day matters more than we think.",
+      "body" : "Long stretches of sitting are hard on the body even for those who exercise. Standing, stretching or walking for a moment each hour keeps you from stiffening up.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g28",
+      "firstSentence" : "A few minutes of gentle stretching can leave the whole body feeling looser.",
+      "body" : "Slow, unhurried stretches ease tension from the shoulders, back and hips where the day tends to settle. A short sequence at home is enough to feel the difference.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g29",
+      "firstSentence" : "Dancing in your kitchen counts as exercise and as joy.",
+      "body" : "Movement does not have to be serious to be good for you. A few songs while you cook lift the heart as much as the heart rate.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g30",
+      "firstSentence" : "A walk after a meal aids digestion and steadies energy.",
+      "body" : "A gentle stroll, even just around the block, helps your body settle after eating. It is a small habit with a calm and pleasant payoff.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g31",
+      "firstSentence" : "Good posture is something you can return to gently all day.",
+      "body" : "Rather than forcing it, simply notice your posture from time to time and ease into a taller, more open position. Small corrections, often repeated, become natural.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g32",
+      "firstSentence" : "Rest days are part of a healthy rhythm, not a failure of one.",
+      "body" : "The body grows stronger during recovery, not only during effort. Honouring a day of rest is wise stewardship of your energy.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g33",
+      "firstSentence" : "Swimming is gentle on the joints and good for the whole body.",
+      "body" : "If you have access to a pool, swimming offers a full-body workout with very little impact. It can feel restful and invigorating at the same time.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g34",
+      "firstSentence" : "Setting out your shoes the night before makes morning movement easier.",
+      "body" : "Removing one small obstacle makes it more likely you will follow through. Preparation the evening before is a quiet act of care for tomorrow’s self.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g35",
+      "firstSentence" : "Breathing well during movement helps you feel steadier.",
+      "body" : "Slow, full breaths rather than shallow ones help your body work with more ease. Let your breathing stay relaxed even as you move.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g36",
+      "firstSentence" : "Any movement you enjoy is the right movement to choose.",
+      "body" : "The activity you genuinely look forward to is the one you will return to. Let enjoyment guide you, because the best exercise is the one you actually keep doing.",
+      "category" : "exercise"
+    },
+    {
+      "id" : "g37",
+      "firstSentence" : "A consistent bedtime is one of the kindest habits you can build.",
+      "body" : "Going to sleep and waking at similar times helps your body find its rhythm. Rest is not a luxury but a foundation for everything else.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g38",
+      "firstSentence" : "A few slow breaths can steady you in the middle of a busy day.",
+      "body" : "When things feel rushed, pausing for three or four deep, unhurried breaths brings you back to the present. It costs nothing and asks only a moment.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g39",
+      "firstSentence" : "Stepping away from screens before bed helps your mind wind down.",
+      "body" : "The light and stimulation of screens can keep the mind alert when it needs to soften. A quiet half hour with a book or gentle conversation prepares you for rest.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g40",
+      "firstSentence" : "Writing down what is on your mind can lighten the load you carry.",
+      "body" : "A few lines in a notebook, naming worries or tasks or thoughts, helps move them out of your head. Many people find this clears the way for calmer rest.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g41",
+      "firstSentence" : "Spending time outdoors lifts the spirit in a way little else does.",
+      "body" : "Natural light, fresh air and green space all support your mood and wellbeing. Even a short time in a garden or park is worth seeking out.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g42",
+      "firstSentence" : "It is good and healthy to ask for help when you need it.",
+      "body" : "Carrying everything alone is neither necessary nor wise. Letting others share the load is a strength, and most people are glad to be asked.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g43",
+      "firstSentence" : "Small moments of quiet through the day are worth protecting.",
+      "body" : "A few minutes of stillness, with no task and no screen, lets your mind rest and reset. These pauses are not wasted time but restoration.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g44",
+      "firstSentence" : "Tracking how you feel builds a gentle understanding of yourself over time.",
+      "body" : "Noticing your energy, mood and body day by day helps you see patterns and care for yourself with more wisdom. Over the months that quiet record becomes something you can learn from.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g45",
+      "firstSentence" : "A warm bath or shower can ease both body and mind.",
+      "body" : "Warmth relaxes tense muscles and creates a natural pause in the day. Treated as a small ritual rather than a rush, it becomes genuinely restoring.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g46",
+      "firstSentence" : "Being gentle with yourself on hard days is not indulgence but wisdom.",
+      "body" : "Some days carry more weight than others, and meeting yourself with patience helps far more than self-criticism. Speak to yourself as you would to a dear friend.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g47",
+      "firstSentence" : "Connecting with someone you love is good medicine.",
+      "body" : "A phone call, a shared meal or an unhurried conversation nourishes you in ways that are easy to overlook. Relationships are central to a healthy life, not separate from it.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g48",
+      "firstSentence" : "Letting in morning light helps your body know the day has begun.",
+      "body" : "Opening the curtains or stepping outside soon after waking supports your natural rhythm and your mood. It is a simple way to start the day well.",
+      "category" : "wellness"
+    },
+    {
+      "id" : "g49",
+      "firstSentence" : "A moment of prayer at the start of the day sets a peaceful foundation.",
+      "body" : "Before the busyness begins, even a short prayer offering the day to God can steady the heart. It need not be long to be sincere.",
+      "category" : "spiritual"
+    },
+    {
+      "id" : "g50",
+      "firstSentence" : "Gratitude has a way of changing how the whole day feels.",
+      "body" : "Naming three things you are thankful for, perhaps in the morning or before sleep, turns the heart toward what is good. It is a simple practice with a lasting effect.",
+      "category" : "spiritual"
+    },
+    {
+      "id" : "g51",
+      "firstSentence" : "Your body is a gift, and caring for it is a form of thanksgiving.",
+      "body" : "Tending to your health with attention and love honours the gift you have been given. The small daily acts of care are themselves a quiet prayer.",
+      "category" : "spiritual"
+    },
+    {
+      "id" : "g52",
+      "firstSentence" : "A few minutes of stillness can become a few minutes with God.",
+      "body" : "Silence is not empty when it is offered as space for prayer. Sitting quietly, without agenda, you make room to listen as well as to speak.",
+      "category" : "spiritual"
+    },
+    {
+      "firstSentence" : "Carrying a short prayer through the day keeps the heart anchored.",
+      "body" : "A single line returned to in spare moments, while waiting or walking, can hold you steady. It is a quiet way to stay close to God amid the busyness.",
+      "category" : "spiritual",
+      "id" : "g53"
+    },
+    {
+      "firstSentence" : "Rest is something God invites us into, not something we must earn.",
+      "body" : "The rhythm of work and rest is woven into how we are made. Allowing yourself genuine rest is an act of trust as much as an act of self-care.",
+      "category" : "spiritual",
+      "id" : "g54"
+    },
+    {
+      "firstSentence" : "Offering a small difficulty to God can change how you carry it.",
+      "body" : "A frustration, a tiredness or a worry, named in prayer and entrusted to God, need not be carried alone. This quiet offering brings a real lightening.",
+      "category" : "spiritual",
+      "id" : "g55"
+    },
+    {
+      "firstSentence" : "Praying for someone you love is a gift to them and to you.",
+      "body" : "Holding another person in prayer deepens your care for them and draws your heart outward. It is a generous and gentle habit to keep.",
+      "category" : "spiritual",
+      "id" : "g56"
+    },
+    {
+      "firstSentence" : "Noticing beauty through the day is a way of noticing God.",
+      "body" : "A kind face, light through a window, a moment of quiet. Pausing to receive these small graces with gratitude turns an ordinary day toward wonder.",
+      "category" : "spiritual",
+      "id" : "g57"
+    },
+    {
+      "firstSentence" : "Ending the day by looking back over it can settle the heart.",
+      "body" : "A short evening reflection, noticing where the day held grace and where it was hard, helps you place it gently in God’s hands before sleep.",
+      "category" : "spiritual",
+      "id" : "g58"
+    },
+    {
+   /tmp/gen_tips_json.swift:39:13: warning: variable 'bodyLine' was never mutated; consider changing to 'let' constant
+37 |         // Parse body - may span multiple lines
+38 |         i += 1
+39 |         var bodyLine = lines[i].trimmingCharacters(in: .whitespaces)
+   |             `- warning: variable 'bodyLine' was never mutated; consider changing to 'let' constant
+40 |         // Extract everything between the first " and the last "
+41 |         if let firstQuote = bodyLine.firstIndex(of: "\"") {
+   "firstSentence" : "Patience with yourself is part of a life of faith.",
+      "body" : "Growth and healing unfold slowly, and God works gently and without hurry. Meeting your own pace with patience reflects the patience shown to you.",
+      "category" : "spiritual",
+      "id" : "g59"
+    },
+    {
+      "firstSentence" : "A simple grace before meals returns the heart to gratitude.",
+      "body" : "Pausing to give thanks before eating, even briefly, remembers that what nourishes us is a gift. It is a small and steady practice of thankfulness.",
+      "category" : "spiritual",
+      "id" : "g60"
+    }
+  ],
+  "version" : 1,
+  "updatedAt" : "2026-05-23T12:00:00Z"
 }
