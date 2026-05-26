@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "articles": [
+    {
+      "id": "humanae-vitae",
+      "title": "Humanae Vitae (Pope Paul VI, 1968)",
+      "subtitle": "The encyclical framing Catholic teaching on contraception and openness to life.",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "section": "foundational-teaching"
+    },
+    {
+      "id": "usccb-humanae-vitae",
+      "title": "USCCB: Humanae Vitae overview",
+      "subtitle": "Accessible summary by the US Bishops.",
+      "url": "https://www.usccb.org/topics/natural-family-planning/humanae-vitae",
+      "section": "foundational-teaching"
+    },
+    {
+      "id": "tob-institute",
+      "title": "Theology of the Body Institute",
+      "subtitle": "John Paul II's catechesis on the human person, marriage and sexuality.",
+      "url": "https://tobinstitute.org",
+      "section": "foundational-teaching"
+    },
+    {
+      "id": "usccb-nfp",
+      "title": "USCCB: Natural Family Planning",
+      "subtitle": "US Bishops' NFP teaching including responsible parenthood.",
+      "url": "https://www.usccb.org/topics/natural-family-planning",
+      "section": "discerning-serious-reasons"
+    },
+    {
+      "id": "catholic-answers",
+      "title": "Catholic Answers",
+      "subtitle": "Q&A on Catholic family planning and discernment.",
+      "url": "https://www.catholic.com/search?q=natural+family+planning",
+      "section": "discerning-serious-reasons"
+    },
+    {
+      "id": "for-your-marriage",
+      "title": "For Your Marriage (USCCB)",
+      "subtitle": "US Bishops' marriage resources for couples at every stage.",
+      "url": "https://www.foryourmarriage.org",
+      "section": "communication-and-unity"
+    },
+    {
+      "id": "tob-resources",
+      "title": "Theology of the Body Institute (resources)",
+      "subtitle": "Material on integrating TOB into prayer and daily life.",
+      "url": "https://tobinstitute.org/resources/",
+      "section": "spiritual-practice"
+    },
+    {
+      "id": "saint-paul-vi",
+      "title": "Saint Paul VI Institute (NaProTechnology)",
+      "subtitle": "Reproductive medicine working with the cycle; for infertility and women's health.",
+      "url": "https://saintpaulvi.com",
+      "section": "hard-moments"
+    },
+    {
+      "id": "springs-in-the-desert",
+      "title": "Springs in the Desert",
+      "subtitle": "Catholic infertility ministry. Blog, podcast, retreats.",
+      "url": "https://springsinthedesert.org",
+      "section": "hard-moments"
+    }
+  ],
+  "sections": [
+    { "id": "foundational-teaching", "title": "Foundational Teaching" },
+    { "id": "discerning-serious-reasons", "title": "Discerning Serious Reasons" },
+    { "id": "communication-and-unity", "title": "Communication and Unity" },
+    { "id": "spiritual-practice", "title": "Spiritual Practice" },
+    { "id": "hard-moments", "title": "Hard Moments" }
+  ]
+}
